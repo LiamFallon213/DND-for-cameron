@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Attachments",
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "dhampier"
+  ]
+}

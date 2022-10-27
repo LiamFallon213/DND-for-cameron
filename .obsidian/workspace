@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "a66d51899334152a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff0538b52629e348",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IMPORTANT, REMEMBER TO KILL THE GIT LINK.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9277312496001e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1975052d42813718",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d33dcf32ba0226df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "000d988f7d5ef4b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85903e3716ef39cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76799c351ab6375c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f92ee9eab21e512",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18b3d7276b62e5cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IMPORTANT, REMEMBER TO KILL THE GIT LINK.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca92247aefef49ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IMPORTANT, REMEMBER TO KILL THE GIT LINK.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f50423d4e19c737",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36cb0793417e9d99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IMPORTANT, REMEMBER TO KILL THE GIT LINK.md"
+              }
+            }
+          },
+          {
+            "id": "7d7cdfe36dcbed23",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc7cb3494c256826",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1ca8b55ad36f7f7",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5190f13c69fbd50",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "24225bfbdd208bc4",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d33dcf32ba0226df",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Templates/Tags.md",
+    "Templates/NPC's.md",
+    "Templates/Asterite.md",
+    "Gods/Animus, God of Life and Death.md",
+    "Party Members/(Oni) 復讐の鬼.md",
+    "Locations/Prime Material Plane/Castlecliff.md",
+    "Locations/Prime Material Plane/Ancestead.md",
+    "Locations/Prime Material Plane/Farhaven.md",
+    "Locations/Prime Material Plane/Farstead.md"
+  ]
+}
