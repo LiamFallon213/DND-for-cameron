@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC's/IMPERIALS/Empress Ringeko.md",
+                "file": "NPC's/REBELS/Lillith.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/IMPERIALS/Empress Ringeko.md",
+                "file": "NPC's/REBELS/Lillith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC's/IMPERIALS/Empress Ringeko.md",
+                "file": "NPC's/REBELS/Lillith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC's/IMPERIALS/Empress Ringeko.md"
+                "file": "NPC's/REBELS/Lillith.md"
               }
             }
           },
@@ -195,6 +195,7 @@
   },
   "active": "ff0538b52629e348",
   "lastOpenFiles": [
+    "NPC's/IMPERIALS/Empress Ringeko.md",
     "Templates/GodTemplate.md",
     "Templates/Tags.md",
     "Templates/NPC's.md",
@@ -203,7 +204,6 @@
     "conflict-files-obsidian-git.md",
     "Templates/Asterite.md",
     "Gods/Animus, God of Life and Death.md",
-    "Party Members/(Oni) 復讐の鬼.md",
-    "Locations/Prime Material Plane/Castlecliff.md"
+    "Party Members/(Oni) 復讐の鬼.md"
   ]
 }
