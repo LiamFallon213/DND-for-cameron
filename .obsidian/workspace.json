@@ -18,8 +18,67 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75d63298ee3cf446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/REBELS/Lillith.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "538d2a88036b119f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/IMPERIALS/The Empress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9d3e0a717503a3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Empire/Nexoria/Nexoria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "363adaa26177a567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Empire/Anathemia/Anathemia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30255def8f813613",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMPORTANT, REMEMBER TO KILL THE GIT LINK.md",
+                "file": "Locations/The Empire/Anathemia/Anathemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMPORTANT, REMEMBER TO KILL THE GIT LINK.md",
+                "file": "Locations/The Empire/Anathemia/Anathemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMPORTANT, REMEMBER TO KILL THE GIT LINK.md"
+                "file": "Locations/The Empire/Anathemia/Anathemia.md"
               }
             }
           },
@@ -173,29 +232,37 @@
             "id": "0df668beea5a6d1e",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f081e2b88629a08f",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {}
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "ff0538b52629e348",
+  "active": "f081e2b88629a08f",
   "lastOpenFiles": [
-    "Magic Item Prices.md",
-    "IMPORTANT, REMEMBER TO KILL THE GIT LINK.md",
-    "conflict-files-obsidian-git.md",
+    "Locations/The Empire/Nexoria/Nexoria.md",
+    "NPC's/IMPERIALS/The Empress.md",
+    "NPC's/REBELS/Lillith.md",
     "Templates/Tags.md",
     "Templates/NPC's.md",
+    "IMPORTANT, REMEMBER TO KILL THE GIT LINK.md",
+    "Magic Item Prices.md",
+    "conflict-files-obsidian-git.md",
     "Templates/Asterite.md",
-    "Gods/Animus, God of Life and Death.md",
-    "Party Members/(Oni) 復讐の鬼.md",
-    "Locations/Prime Material Plane/Castlecliff.md",
-    "Locations/Prime Material Plane/Ancestead.md"
+    "Gods/Animus, God of Life and Death.md"
   ]
 }
