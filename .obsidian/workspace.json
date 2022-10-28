@@ -13,72 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IMPORTANT, REMEMBER TO KILL THE GIT LINK.md",
+                "file": "NPC's/IMPERIALS/Empress Ringeko.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "75d63298ee3cf446",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/REBELS/Lillith.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "538d2a88036b119f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/IMPERIALS/The Empress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9d3e0a717503a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/The Empire/Nexoria/Nexoria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "363adaa26177a567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/The Empire/Anathemia/Anathemia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30255def8f813613",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Empire/Anathemia/Anathemia.md",
+                "file": "NPC's/IMPERIALS/Empress Ringeko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Empire/Anathemia/Anathemia.md",
+                "file": "NPC's/IMPERIALS/Empress Ringeko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Empire/Anathemia/Anathemia.md"
+                "file": "NPC's/IMPERIALS/Empress Ringeko.md"
               }
             }
           },
@@ -237,7 +178,7 @@
             }
           },
           {
-            "id": "f081e2b88629a08f",
+            "id": "d5637bcdc9b8e7fd",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -252,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f081e2b88629a08f",
+  "active": "ff0538b52629e348",
   "lastOpenFiles": [
-    "Locations/The Empire/Nexoria/Nexoria.md",
-    "NPC's/IMPERIALS/The Empress.md",
-    "NPC's/REBELS/Lillith.md",
+    "Templates/GodTemplate.md",
     "Templates/Tags.md",
     "Templates/NPC's.md",
-    "IMPORTANT, REMEMBER TO KILL THE GIT LINK.md",
     "Magic Item Prices.md",
+    "IMPORTANT, REMEMBER TO KILL THE GIT LINK.md",
     "conflict-files-obsidian-git.md",
     "Templates/Asterite.md",
-    "Gods/Animus, God of Life and Death.md"
+    "Gods/Animus, God of Life and Death.md",
+    "Party Members/(Oni) 復讐の鬼.md",
+    "Locations/Prime Material Plane/Castlecliff.md"
   ]
 }

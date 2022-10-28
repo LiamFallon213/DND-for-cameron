@@ -1,1 +1,0 @@
-Very egotistical, very sure of her self, not a very good ruler. The empire is defacto ruled by the Empresses Aide. 
