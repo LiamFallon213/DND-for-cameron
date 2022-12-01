@@ -184,16 +184,23 @@
               "type": "Saved Queries View",
               "state": {}
             }
+          },
+          {
+            "id": "bdbdce13a88d641d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ff0538b52629e348",
+  "active": "bdbdce13a88d641d",
   "lastOpenFiles": [
     "NPC's/IMPERIALS/Empress Ringeko.md",
     "Templates/GodTemplate.md",
